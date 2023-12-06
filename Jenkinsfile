@@ -8,5 +8,7 @@ pipeline {
                 sh 'mvn clean install package'
             }
         }
+        
     }
+    
 }
